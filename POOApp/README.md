@@ -13,19 +13,27 @@ Esta aplicación está desarrollada en C# y utiliza conceptos de Programación O
 2. Abre tu terminal de comandos.
 3. Clona o descarga el repositorio en tu máquina local:
 
+    ```bash
     git clone https://github.com/tu-usuario/Desarrollo-Web.git
+    ```
 
 4. Navega al directorio del proyecto:
 
+    ```bash
     cd Desarrollo-Web\POOApp
+    ```
 
 5. Compila la aplicación:
 
+    ```bash
     dotnet build
+    ```
 
 6. Ejecuta la aplicación:
 
+    ```bash
     dotnet run
+    ```
 
 ### Cómo Probar la Aplicación
 
