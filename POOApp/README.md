@@ -19,7 +19,7 @@ Esta aplicación está desarrollada en C# y utiliza conceptos de Programación O
 
 4. Navega al directorio del proyecto:
 
-    ```bash
+   ```bash
     cd Desarrollo-Web\POOApp
     ```
 
