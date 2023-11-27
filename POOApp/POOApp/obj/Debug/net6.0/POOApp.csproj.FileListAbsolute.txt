@@ -12,3 +12,17 @@ C:\Users\user\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My 
 C:\Users\user\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\POOApp\POOApp\obj\Debug\net6.0\POOApp.pdb
 C:\Users\user\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\POOApp\POOApp\obj\Debug\net6.0\POOApp.genruntimeconfig.cache
 C:\Users\user\OneDrive\Documentos\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\POOApp\POOApp\obj\Debug\net6.0\ref\POOApp.dll
+C:\Users\user\OneDrive\Documentos\Desarrollo-Web\POOApp\POOApp\bin\Debug\net6.0\POOApp.exe
+C:\Users\user\OneDrive\Documentos\Desarrollo-Web\POOApp\POOApp\bin\Debug\net6.0\POOApp.deps.json
+C:\Users\user\OneDrive\Documentos\Desarrollo-Web\POOApp\POOApp\bin\Debug\net6.0\POOApp.runtimeconfig.json
+C:\Users\user\OneDrive\Documentos\Desarrollo-Web\POOApp\POOApp\bin\Debug\net6.0\POOApp.dll
+C:\Users\user\OneDrive\Documentos\Desarrollo-Web\POOApp\POOApp\bin\Debug\net6.0\POOApp.pdb
+C:\Users\user\OneDrive\Documentos\Desarrollo-Web\POOApp\POOApp\obj\Debug\net6.0\POOApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Documentos\Desarrollo-Web\POOApp\POOApp\obj\Debug\net6.0\POOApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Documentos\Desarrollo-Web\POOApp\POOApp\obj\Debug\net6.0\POOApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Documentos\Desarrollo-Web\POOApp\POOApp\obj\Debug\net6.0\POOApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documentos\Desarrollo-Web\POOApp\POOApp\obj\Debug\net6.0\POOApp.dll
+C:\Users\user\OneDrive\Documentos\Desarrollo-Web\POOApp\POOApp\obj\Debug\net6.0\refint\POOApp.dll
+C:\Users\user\OneDrive\Documentos\Desarrollo-Web\POOApp\POOApp\obj\Debug\net6.0\POOApp.pdb
+C:\Users\user\OneDrive\Documentos\Desarrollo-Web\POOApp\POOApp\obj\Debug\net6.0\POOApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Documentos\Desarrollo-Web\POOApp\POOApp\obj\Debug\net6.0\ref\POOApp.dll
