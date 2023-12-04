@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1N1/f8tksHND+a97JzICtMknj1ZlnN7CmYNBQtDzt+GBFtE6kR3Eke+dmBRuMYqybXTznPI0FjoMq+5Q9YWu9g==",
+  "dgSpecHash": "W7GrbOnKJAmzDRaSXaKxs7eGQ/Nxm4sv+u8MNc8K2SVD4OtkiQNfRCKyxBrdw/sKWXswb/beaTssjmnljtYI5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\OneDrive\\Documentos\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\EJEMPLO\\CRUDCORE\\CRUDCORE\\CRUDCORE.csproj",
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Documentos\\Desarrollo-Web\\CRUDCORE\\CRUDCORE\\CRUDCORE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
