@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sitio web completo y receptivo del zoológico</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+    <!-- Encabezado -->
+
+    <header class="header">
+
+        <a href="#" class="logo"> <i class="fas fa-paw"></i> zoológico</a>
+
+        <nav class="navbar">
+            <a href="#home">inicio</a>
+            <a href="#about">acerca de</a>
+            <a href="#gallery">galería</a>
+            <a href="#animal">animales</a>
+            <a href="#pricing">precios</a>
+            <a href="#contact">contacto</a>
+        </nav>
+
+        <div class="icons">
+            <div id="login-btn" class="fas fa-user"></div>
+            <div id="menu-btn" class="fas fa-bars"></div>
+        </div>
+
+        <!-- Formulario de inicio de sesión -->
+
+        <form action="" class="login-form">
+
+            <h3>formulario de inicio de sesión</h3>
+            
+            <input type="email" placeholder="Ingresa tu correo electrónico" class="box">
+            <input type="password" placeholder="Ingresa tu contraseña" class="box">
+            <div class="remember">
+                <input type="checkbox" name="" id="remember-me">
+                <label for="remember-me">recuérdame</label>
+            </div>
+            <a href="#" class="btn">iniciar sesión</a>
+
+        </form>
+
+    </header>
+
+
+    <!-- Fin -->
+
+    <!-- Inicio -->
+
+    <section class="home" id="home">
+
+        <div class="content">
+            <h3>disfruta de la maravillosa <br>
+            aventura de los <br> animales</h3>
+            <a href="#" class="btn">conoce el zoológico</a>
+        </div>
+
+        <img src="images/bottom_wave.png" alt="" class="wave">
+
+    </section>
+
+    <!-- Fin -->
+
+    <!-- Acerca de -->
+
+    <section class="about" id="about">
+
+        <h2 class="deco-title">Acerca de</h2>
+
+        <div class="box-container">
+
+            <div class="image">
+                <img src="images/ciervo-modified.png" alt="" style="width: 87%; height: auto;">
+            </div>
+
+            <div class="content">
+                 <h3 class="title">Explora la Diversidad de Especies en Nuestro Zoológico</h3>
+            <p>Sumérgete en la maravillosa variedad de animales en nuestro zoológico, un lugar donde podrás admirar especies populares de todas partes del mundo. Nos dedicamos a ofrecer una experiencia educativa y entretenida para visitantes de todas las edades. Nuestro compromiso es proporcionar un ambiente que fomente el conocimiento y la apreciación de la vida animal.</p>
+                
+                <div class="icons-container">
+                    <div class="icons">
+                        <i class="fas fa-graduation-cap"></i>
+                        <h3>educamos</h3>
+                    </div>
+                    <div class="icons">
+                        <i class="fas fa-bullhorn"></i>
+                        <h3>jugamos</h3>
+                    </div>
+                    <div class="icons">
+                        <i class="fas fa-book-open"></i>
+                        <h3>aprendemos</h3>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Fin -->
+
+    <!-- Galería -->
+
+    <section class="gallery" id="gallery">
+
+        <h2 class="heading">galería</h2>
+
+        <div class="swiper gallery-slider">
+
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slide slide">
+                    <div class="image">
+                        <img src="images/gallery-1.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="swiper-slide slide">
+                    <div class="image">
+                        <img src="images/gallery-2.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="swiper-slide slide">
+                    <div class="image">
+                        <img src="images/gallery-3.jpg" alt="">
+                    </div>
+                </div>
+
+                <div class="swiper-slide slide">
+                    <div class="image">
+                        <img src="images/gallery-4.jpg" alt="">
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+
+        </div>
+
+    </section>
+
+    <!-- Fin -->
+
+    <!-- Animales -->
+
+    <section class="animal" id="animal">
+
+        <h2 class="heading">animales</h2>
+
+        <div class="box-container">
+
+            <div class="box">
+                <img src="images/animal_1.jpg" alt="">
+                <div class="content">
+                    <h3>cameleon</h3>
+                    <button class="btn" data-info="
+                    <b>Camaleon:</b>
+                    Hábitat: Selvas, bosques, zonas arbustivas y desiertos.
+                    Características Físicas: Cuerpo comprimido, ojos independientes, capacidad para cambiar de color.
+                    Dieta: Principalmente insectívoro, se alimenta de insectos y otros invertebrados.
+                    Comportamiento Social: Mayormente solitario, excepto durante la época de apareamiento.
+                    Estado de Conservación: Varía según la especie, algunas amenazadas por la pérdida de hábitat.
+                    Curiosidades: Capacidad única para cambiar de color según el entorno y el estado emocional.
+                    ">Ver detalles</button>
+                </div>
+            </div>
+            
+            <div class="box">
+                <img src="images/animals_2.jpg" alt="">
+                <div class="content">
+                    <h3>cebra</h3>
+                    <button class="btn" data-info="
+                    <b>Cebra:</b>
+                    Hábitat: Sabanas, praderas y zonas arboladas.
+                    Características Físicas: Pelaje a rayas distintivas en blanco y negro.
+                    Dieta: Herbívora, se alimenta principalmente de pasto.
+                    Comportamiento Social: Forman grupos sociales llamados manadas.
+                    Estado de Conservación: Varía según la especie, pero generalmente no amenazadas.
+                    Curiosidades: Patrón de rayas actúa como camuflaje; excelentes corredoras y nadadoras.
+                    ">Ver detalles</button>
+                </div>
+            </div>
+            
+            <div class="box">
+                <img src="images/animals_3.jpg" alt="">
+                <div class="content">
+                    <h3>jirafa</h3>
+                    <button class="btn" data-info="
+                    <b>Jirafa:</b>
+                    Hábitat: Sabanas y áreas arboladas.
+                    Características Físicas: Cuello largo adaptado para alcanzar hojas en la parte alta de los árboles.
+                    Dieta: Herbívora, se alimenta principalmente de hojas, brotes y frutas.
+                    Comportamiento Social: Suelen vivir en grupos llamados manadas.
+                    Estado de Conservación: Preocupación menor, pero algunas subespecies en peligro.
+                    Curiosidades: Poseen el cuello más largo entre los mamíferos; su lengua puede medir hasta 45 centímetros.">Ver detalles</button>
+                </div>
+            </div>
+            
+            <div class="box">
+                <img src="images/animals_4.jpg" alt="">
+                <div class="content">
+                    <h3>mono</h3>
+                    <button class="btn" data-info="
+                    <b>Mono:</b>
+                    Hábitat: Selvas tropicales, bosques, sabanas.
+                    Características Físicas: Extremidades adaptadas para trepar, colas prensiles.
+                    Dieta: Principalmente herbívoros, consumen frutas, hojas y semillas.
+                    Comportamiento Social: Animales sociales que viven en grupos (tropas).
+                    Estado de Conservación: Varía, algunas en peligro debido a pérdida de hábitat y caza furtiva.
+                    Curiosidades: Comparten ancestro común con humanos, muestran habilidades cognitivas.
+                    ">Ver detalles</button>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Fin -->
+
+    <!-- Banner -->
+
+    <section class="banner">
+
+        <div class="row">
+            
+            <div class="content">
+                <h3>quédate con las mascotas</h3>
+                <p>En nuestro zoológico, no solo te ofrecemos la oportunidad de observar a estos fascinantes seres, sino que también te invitamos a participar en programas interactivos donde podrás acercarte y aprender más sobre nuestras adorables mascotas. Puedes disfrutar de experiencias únicas, como alimentar a los animales, participar en sesiones de juego y aprender sobre sus comportamientos. Creemos en la conexión entre los humanos y los animales, y queremos que cada visita sea memorable y educativa.</p>
+            </div>
+
+            <div class="image">
+                <img src="images/banner_1.png" alt="">
+            </div>
+            
+        </div>
+
+    </section>
+
+    <!-- Fin -->
+
+    <!-- Precios -->
+
+    <section class="pricing" id="pricing">
+
+        <h2 class="heading">precios</h2>
+
+        <div class="box-container">
+
+            <div class="box">
+                <img src="images/pricing1.png" alt="">
+                <h3>individuos</h3>
+                <h4 class="price">$ 10</h4>
+                <p>la entrada es de 8:00 a 14:00</p>
+            </div>
+
+            <div class="box">
+                <img src="images/pricing2.png" alt="">
+                <h3>escuela</h3>
+                <h4 class="price">$ 20</h4>
+                <p>la entrada es de 8:00 a 14:00</p>
+            </div>
+
+            <div class="box">
+                <img src="images/pricing1.png" alt="">
+                <h3>familia</h3>
+                <h4 class="price">$ 30</h4>
+                <p>la entrada es de 8:00 a 14:00</p>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Fin -->
+
+    <!-- Contacto -->
+
+    <section class="contact" id="contact">
+
+        <h2 class="heading">contacto</h2>
+
+        <form action="">
+
+            <div class="inputBox">
+                <input type="text" placeholder="nombre">
+                <input type="email" placeholder="correo electrónico">
+            </div>
+
+            <div class="inputBox">
+                <input type="number" placeholder="número">
+                <input type="text" placeholder="asunto">
+            </div>
+
+            <textarea name="" id="" cols="30" rows="10" placeholder="mensaje"></textarea>
+
+            <a href="#" class="btn">enviar mensaje</a>
+
+        </form>
+
+    </section>
+
+    <!-- Fin -->
+
+    <!-- Pie de página -->
+
+    <section class="footer">
+
+        <div class="box-container">
+
+            <div class="box">
+                <h3><i class="fas fa-paw"></i> zoológico</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                <p class="links"><i class="fas fa-clock"></i>lunes - viernes</p>
+                <p class="days">7:00 AM - 11:00 PM</p>
+            </div>
+
+            <div class="box">
+                <h3>Información de contacto</h3>
+                <a href="#" class="links"><i class="fas fa-phone"></i> 1245-147-2589</a>
+                <a href="#" class="links"><i class="fas fa-phone"></i> 1245-147-2589</a>
+                <a href="#" class="links"><i class="fas fa-envelope"></i> info@zoolife.com</a>
+                <a href="#" class="links"><i class="fas fa-map-marker-alt"></i> Karachi, Pakistán</a>
+            </div>
+
+            <div class="box">
+                <h3>enlaces rápidos</h3>
+                <a href="#" class="links"> <i class="fas fa-arrow-right"></i>inicio</a>
+                <a href="#" class="links"> <i class="fas fa-arrow-right"></i>acerca de</a>
+                <a href="#" class="links"> <i class="fas fa-arrow-right"></i>galería</a>
+                <a href="#" class="links"> <i class="fas fa-arrow-right"></i>animales</a>
+                <a href="#" class="links"> <i class="fas fa-arrow-right"></i>precios</a>
+            </div>
+
+            <div class="box">
+                <h3>boletín informativo</h3>
+                <p>suscríbete para recibir las últimas actualizaciones</p>
+                <input type="email" placeholder="Tu correo electrónico" class="email">
+                <a href="#" class="btn">suscribirse</a>
+                <div class="share">
+                    <a href="#" class="fab fa-facebook-f"></a>
+                    <a href="#" class="fab fa-twitter"></a>
+                    <a href="#" class="fab fa-instagram"></a>
+                    <a href="#" class="fab fa-linkedin"></a>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- Fin -->
+
+    <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+
+    <script src="js/script.js"></script>
+
+</body>
+</html>
